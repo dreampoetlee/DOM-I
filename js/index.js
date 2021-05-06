@@ -61,7 +61,7 @@ navItems.forEach(link => {
 
 // Header Section
 const ctaSection = document.querySelector(`.cta-text h1`);
-ctaSection.innerText = `DOM \n is \n Awesome \n`;
+ctaSection.innerText = `DOM \n is \n Awesome \n Yes?`;
 
 // Button
 const btn = document.querySelector(`button`);
